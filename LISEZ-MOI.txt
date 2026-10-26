@@ -1,0 +1,12 @@
+VERSION 5 FINALE - IMAGES A LA RACINE
+
+1. Decompresser l'archive.
+2. Verifier que le fichier s'appelle exactement index.html.
+3. Dans GitHub, ouvrir le fichier index.html existant et le supprimer.
+4. Commit changes.
+5. Add file > Upload files.
+6. Importer le nouveau index.html.
+7. Commit changes.
+8. Attendre 2 minutes puis Ctrl + F5.
+
+Ne pas importer un fichier nomme Index 36.html ou index (1).html.
