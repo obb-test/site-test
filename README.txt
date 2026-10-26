@@ -1,10 +1,7 @@
-OPEN BRASS BAND - SITE TEST
-
-1. Décompressez cette archive.
-2. Dans GitHub, ouvrez le dépôt site-test.
-3. Utilisez Add file > Upload files.
-4. Déposez index.html ET le dossier assets.
+MISE A JOUR GITHUB
+1. Decompressez cette archive.
+2. Ouvrez https://github.com/obb-test/site-test
+3. Cliquez sur Add file puis Upload files.
+4. Deposez index.html ET le dossier assets complet.
 5. Validez avec Commit changes.
-6. Attendez 2 à 5 minutes puis ouvrez https://obb-test.github.io/site-test/
-
-Le site test contient volontairement la balise noindex, nofollow.
+6. Attendez 2 minutes et actualisez https://obb-test.github.io/site-test/ avec Ctrl + F5.
